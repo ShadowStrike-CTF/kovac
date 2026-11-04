@@ -1,6 +1,6 @@
 # Kovač
 
-Strategos project scaffold and namespace tooling.. by Strategos.
+Strategos project scaffold and namespace tooling. by Strategos.
 
 GitHub: https://github.com/ShadowStrike-CTF/kovac
 

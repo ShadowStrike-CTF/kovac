@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 [project]
 name = "kovac"
 version = "1.0.0"
-description = "Strategos project scaffold and namespace tooling.. by Strategos."
+description = "Strategos project scaffold and namespace tooling. by Strategos."
 readme = "README.md"
 license = {text = "Proprietary"}
 authors = [
