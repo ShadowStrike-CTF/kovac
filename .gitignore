@@ -5,3 +5,8 @@ dist/
 build/
 .eggs/
 *.egg
+
+# Design docs and SPECs — internal only, never committed
+docs/
+*_Design_Doc_*.md
+*_SPEC_*.md
