@@ -10,3 +10,7 @@ build/
 docs/
 *_Design_Doc_*.md
 *_SPEC_*.md
+# Internal working document. Never commit.
+TEMPLATE_GUIDE.md
+# Local-only instruction files
+CLAUDE.local.md
